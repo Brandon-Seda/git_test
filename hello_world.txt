@@ -1,0 +1,6 @@
+#git_test
+my first repo
+Hello Odin!
+
+
+Yess almost there!
